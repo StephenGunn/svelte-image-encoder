@@ -84,6 +84,7 @@
 			offsetX = 0;
 			offsetY = 0;
 			scale = minScale = Math.max(width / img.width, height / img.height);
+			// YES YES YES
 		};
 	});
 </script>
